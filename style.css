@@ -1,0 +1,27 @@
+.navbar {
+    background-color: midnightblue;
+    font-family: 'Bebas Neue', cursive;
+    
+}
+
+.nav-link {
+    color: wheat !important;
+}
+.navbar-brand {
+    color: wheat !important;
+    border: 1px solid white;
+    padding: .5em;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.jumbotron {
+    background-image: url("https://uiaa-web.azureedge.net/wp-content/uploads/2017/11/RTM19-banner-web.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.display-4, .lead {
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
