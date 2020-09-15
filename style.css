@@ -26,11 +26,11 @@ body {
 }
 
 .nav-link {
-    font-size: 25px;
+    font-size: 15px;
     color: white !important;
 }
 .navbar-brand {
-    font-size: 30px;
+    font-size: 20px;
     color: white !important;
     border: 1px solid white;
     padding: .5em;
@@ -61,8 +61,15 @@ body {
     background-color: midnightblue;
     font-family: 'Mitr', sans-serif;
     height: 50px;
+    border: 2px solid white;
+    margin-top: 1.5em;
 }
 
 footer .nav-link {
     font-size: 15px;
+}
+
+.card {
+    padding-bottom: 10px;
+    
 }
