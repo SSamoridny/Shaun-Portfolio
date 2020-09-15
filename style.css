@@ -1,9 +1,18 @@
 body {
-    background-color: rgb(176, 226, 238);
+    background-color: rgb(181, 193, 201);
 }
 
 .icon {
     float: right;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.list-group-item {
+    font-family: 'Mitr', sans-serif;
+}
+
+.list-group {
 }
 
 .container {
@@ -12,18 +21,20 @@ body {
 
 .navbar {
     background-color: midnightblue;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Mitr', sans-serif;
     border : 2px solid white;
 }
 
 .nav-link {
+    font-size: 25px;
     color: white !important;
 }
 .navbar-brand {
+    font-size: 30px;
     color: white !important;
     border: 1px solid white;
     padding: .5em;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Mitr', sans-serif;
 }
 
 .jumbotron {
@@ -36,7 +47,7 @@ body {
 
 .display-4, .lead {
     color: midnightblue;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Mitr', sans-serif;
     text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
 }
 
@@ -44,4 +55,14 @@ body {
     background-color: midnightblue;
     color: white;
     border: 2px solid white;
+}
+
+.nav {
+    background-color: midnightblue;
+    font-family: 'Mitr', sans-serif;
+    height: 50px;
+}
+
+footer .nav-link {
+    font-size: 15px;
 }
