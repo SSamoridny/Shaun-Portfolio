@@ -1,14 +1,26 @@
+body {
+    background-color: rgb(176, 226, 238);
+}
+
+.icon {
+    float: right;
+}
+
+.container {
+    margin-top: 1rem;
+}
+
 .navbar {
     background-color: midnightblue;
     font-family: 'Bebas Neue', cursive;
-    
+    border : 2px solid white;
 }
 
 .nav-link {
-    color: wheat !important;
+    color: white !important;
 }
 .navbar-brand {
-    color: wheat !important;
+    color: white !important;
     border: 1px solid white;
     padding: .5em;
     font-family: 'Bebas Neue', cursive;
@@ -19,9 +31,17 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    border: 2px solid white;
 }
 
 .display-4, .lead {
-    color: white;
+    color: midnightblue;
     font-family: 'Bebas Neue', cursive;
+    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+}
+
+.list-group-item {
+    background-color: midnightblue;
+    color: white;
+    border: 2px solid white;
 }
