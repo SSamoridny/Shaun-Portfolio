@@ -10,7 +10,7 @@ body {
 
 .list-group-item {
     font-family: 'Mitr', sans-serif;
-    overflow-wrap: break-word;
+    <!--overflow-wrap: break-word;-->
 }
 
 
@@ -78,3 +78,13 @@ footer .nav-link {
 .message .form-control {
     height: 200px;
 }
+
+@media only screen and (max-width: 375px) {
+    .display-4 {
+      font-size: 35px;
+    }
+
+    .list-group-item {
+        font-size:8px;
+    }
+  }
