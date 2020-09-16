@@ -87,4 +87,14 @@ footer .nav-link {
     .list-group-item {
         font-size:8px;
     }
+
+    .list-group-item a {
+        visibility: hidden;
+    }
+
+    .list-group-item a .fab {
+        visibility: visible;
+    }
+
+    }
   }
