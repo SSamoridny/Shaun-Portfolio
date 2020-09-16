@@ -10,7 +10,6 @@ body {
 
 .list-group-item {
     font-family: 'Mitr', sans-serif;
-    <!--overflow-wrap: break-word;-->
 }
 
 
@@ -96,5 +95,4 @@ footer .nav-link {
         visibility: visible;
     }
 
-    }
   }
