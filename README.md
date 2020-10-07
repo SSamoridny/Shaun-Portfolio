@@ -1,4 +1,11 @@
-# Shaun-Portfolio
+# Shaun Samoridny-Portfolio
+
+https://ssamoridny.github.io/Shaun-Portfolio/
+
+Technologies Used:
+- HTML
+- CSS
+- Bootstrap
 
 In this portfolio I tried to follow the guidelines as well as added a few things of my own. My goal was to build something where I could show my future skills as well as simply challenging myself to make a responsive layout with all of the working links.
 
