@@ -17,3 +17,6 @@ Lastly was a simple Contact form as well as some workarounds like "break-word" t
 
 Thank you,
 Shaun Samoridny
+ssamoridny@gmail.com
+
+![Portfolio Screen](https://user-images.githubusercontent.com/30538162/95389175-a9256a80-08b0-11eb-9f7f-fee19ef6ecd6.png)
